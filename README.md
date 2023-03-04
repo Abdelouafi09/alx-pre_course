@@ -1,2 +1,2 @@
 My first readme
-ni can edit in github!
+i can edit in github!
